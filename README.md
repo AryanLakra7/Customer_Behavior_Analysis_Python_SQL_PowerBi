@@ -146,5 +146,3 @@ database = "customer_behavior"
 **Aryan Lakra**
 B.Tech – Production & Industrial Engineering
 
----
-
