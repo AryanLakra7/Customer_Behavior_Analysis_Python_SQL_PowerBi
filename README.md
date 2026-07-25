@@ -140,14 +140,6 @@ database = "customer_behavior"
 
 ---
 
-## 📈 Future Improvements
-
-* Add predictive modeling (customer churn, purchase prediction)
-* Deploy dashboard online (Power BI Service)
-* Automate ETL pipeline
-* Integrate real-time data sources
-
----
 
 ## 👨‍💻 Author
 
@@ -156,6 +148,3 @@ B.Tech – Production & Industrial Engineering
 
 ---
 
-## 📄 License
-
-This project is open-source and available for learning and educational purposes.
